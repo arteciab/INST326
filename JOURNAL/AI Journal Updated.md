@@ -25,3 +25,11 @@ Section 0301
 This week I did not use AI while completing the exercises. As for my project team, I am currently in a group of two. 
 My partner and I will have the opporunity to collab this week, which could change that for next week.
 I do plan to use AI in the future to include Gemini, Claude, etc. but I have not had the chance to try them out yet.
+
+Week 4:
+AI Usage Journal
+Artecia Brown
+Abrown66@terpmail.umd.edu
+Section 0301
+
+This week, I worked on the exercises independently to review and apply python concepts that we have learned so far. I relied on the class lectures, discussions, materials, notes, and online documentation to understand these concepts. I completed all exercises without the use of AI. I still plan to use AI in the future for group projects if my teammates agree.
