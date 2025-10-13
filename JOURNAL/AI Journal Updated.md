@@ -33,3 +33,11 @@ Abrown66@terpmail.umd.edu
 Section 0301
 
 This week, I worked on the exercises independently to review and apply python concepts that we have learned so far. I relied on the class lectures, discussions, materials, notes, and online documentation to understand these concepts. I completed all exercises without the use of AI. I still plan to use AI in the future for group projects if my teammates agree.
+
+Week 5:
+AI Usage Journal
+Artecia Brown
+Abrown66@terpmail.umd.edu
+Section 0301
+
+This week, I worked on the exercises independently to review and apply python concepts that we have learned so far. I relied on the class lectures, discussions, materials, notes, and online documentation to understand these concepts. I completed all exercises without the use of AI. I still plan to use AI in the future for group projects if my teammates agree.
