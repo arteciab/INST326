@@ -40,4 +40,4 @@ Artecia Brown
 Abrown66@terpmail.umd.edu
 Section 0301
 
-Throughout the project, my team used AI to help debug code, explain error messages, and improve overall structure and efficiency. AI was also helpful for refining documentation and checking function organization. We made sure to review, understand, and edit all AI-assisted work to ensure it met project requirements and that we took full responsibility for the final code.
+Throughout the project, my team used AI to help debug code, explain error messages, and improve overall structure and efficiency. AI was also helpful for refining documentation and checking function organization. 
