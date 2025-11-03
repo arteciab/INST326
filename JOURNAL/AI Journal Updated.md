@@ -50,3 +50,11 @@ Section 0301
 
 This week, I worked on the exercises independently to review and apply python concepts that we have learned so far. I relied on the class lectures, discussions, materials, notes, and online documentation to understand these concepts. I completed all exercises without the use of AI.
 
+Week 7: 
+AI Usage Journal 
+Artecia Brown 
+Abrown66@terpmail.umd.edu 
+Section 0301
+
+This week, I worked on the exercises independently to review and apply the Python concepts we have learned so far. I relied on the class lectures, discussions, materials, notes, and online documentation to understand these concepts. I completed all exercises without the use of AI. My teammates have not texted me back at this time, so I am not sure of their use of AI, and I do not have a link to their AI chats. Please reference their AI journal for more information.
+
