@@ -58,3 +58,12 @@ Section 0301
 
 This week, I worked on the exercises independently to review and apply the Python concepts we have learned so far. I relied on the class lectures, discussions, materials, notes, and online documentation to understand these concepts. I completed all exercises without the use of AI. My teammates have not texted me back at this time, so I am not sure of their use of AI, and I do not have a link to their AI chats. Please reference their AI journal for more information.
 
+Week 8: 
+AI Usage Journal 
+Artecia Brown 
+Abrown66@terpmail.umd.edu 
+Section 0301
+
+This week, I didn’t use AI for any of the exercises or project work. I mainly focused on going over the class materials, notes, and examples to get a better handle on the Python topics we’ve been learning, especially object-oriented programming. I wanted to make sure I understood the concepts on my own before relying on anything else.  I’ll keep working through the assignments on my own for now and decide later if using AI would help with future projects.
+
+
