@@ -66,4 +66,7 @@ Section 0301
 
 This week, I didn’t use AI for any of the exercises or project work. I mainly focused on going over the class materials, notes, and examples to get a better handle on the Python topics we’ve been learning, especially object-oriented programming. I wanted to make sure I understood the concepts on my own before relying on anything else.  I’ll keep working through the assignments on my own for now and decide later if using AI would help with future projects.
 
+Week 9: AI Usage Journal Artecia Brown Abrown66@terpmail.umd.edu Section 0301
+
+This week, I didn’t use AI for any of the exercises or project work. I mainly focused on going over the class materials, notes, and examples to get a better handle on the Python topics we’ve been learning, especially object-oriented programming. I wanted to make sure I understood the concepts on my own before relying on anything else. I’ll keep working through the assignments on my own for now and decide later if using AI would help with future projects.
 
