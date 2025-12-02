@@ -81,3 +81,11 @@ Abrown66@terpmail.umd.edu
 Section 0301
 
 Throughout the project, my team used AI to help debug code, explain error messages, and improve overall structure and efficiency. AI was also helpful for refining documentation and checking function organization.
+
+Week 12: 
+AI Usage Journal 
+Artecia Brown 
+Abrown66@terpmail.umd.edu 
+Section 0301
+
+Throughout the project, my team used AI to help debug code, explain error messages, and improve overall structure and efficiency. AI was also helpful for refining documentation and checking function organization.
